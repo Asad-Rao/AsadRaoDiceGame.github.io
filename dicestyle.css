@@ -1,0 +1,55 @@
+.Body {
+  font-family: 'Lobster', cursive;
+  letter-spacing: 2px;
+  text-align: center;
+  background-color: rgb(16, 2, 141);
+}
+.DIV {
+  margin-top: 41px;
+}
+.Title {
+  color: forestgreen;
+  font-size: 4rem;
+
+  /* font-size: 3rem; */
+}
+
+.Player {
+  display: inline-block;
+  margin-right: 6rem;
+  margin-left: 6rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.btn {
+  margin-top: 41px;
+}
+
+/* .Body {
+  background-color: rgb(48, 8, 48);
+}
+h3 {
+  display: inline-block;
+  text-align: center;
+  margin-left: 25rem;
+  color: forestgreen;
+  font-size: 3rem;
+}
+#One {
+  visibility: hidden;
+}
+#Two {
+  visibility: hidden;
+}
+#Three {
+  visibility: hidden;
+}
+#Four {
+  visibility: hidden;
+}
+#Five {
+  visibility: hidden;
+}
+#Six {
+  visibility: hidden;
+} */
